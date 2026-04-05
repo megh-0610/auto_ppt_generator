@@ -53,7 +53,7 @@ Enter a topic → Click Generate → Download PPT
 ## 📦 Output
 
 * Presentation saved in `outputs/`
-* Includes slides with content + images
+* Includes slides with content 
 
 ---
 
